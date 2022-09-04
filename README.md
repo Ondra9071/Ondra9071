@@ -1,16 +1,3 @@
-
-<p align="center"><img src="https://i.giphy.com/media/UtqEYiWKej5ES7tMZR/giphy.gif" width="500"/></p>
-<p align="center">
-<a href="https://www.instagram.com/ondrasekq_"><img src="https://i.imgur.com/0ZrEuWJ.png" alt="Instagram" width="250"></a>
-</p>
-<p align="center">
-<a href="https://www.buymeacoffee.com/ondra907" target="_blank"><img src="https://i.imgur.com/4TQukph.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-  
-</p>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=Ondra9071&style=flat-square&color=blue" alt=""></p>
-
-<h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
-
 ### :woman_technologist: &nbsp;About Me :
 
 I am a starting frontend developer from Czech Republic.
@@ -25,14 +12,29 @@ I am a starting frontend developer from Czech Republic.
 ### 🛠 &nbsp;Languages:
 
 <p>
+<img src="https://i.imgur.com/1oZ67tw.png" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
+<img src="https://i.imgur.com/900ftrZ.png" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
+<img src="https://i.imgur.com/jgkQbVf.png" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+<img src="https://i.imgur.com/Vxi8tbo.png" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 </p>
 
 ### 🛠 &nbsp;Tools:
 
 <p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+<img src="https://i.imgur.com/uBWtn2K.png" title="Adobe Creative Cloud" **alt="Adobe Creative Cloud" width="40" height="40"/>&nbsp;
+<img src="https://i.imgur.com/4egkUJv.png" title="GitHub Desktop" **alt="GitHub Desktop" width="40" height="40"/>&nbsp;
+<img src="https://i.imgur.com/ceRNR1S.png" title="Bootstrap Studio" **alt="Bootstrap Studio" width="40" height="40"/>&nbsp;
+<img src="https://i.imgur.com/7v3ctgg.png" title="Netlify" **alt="Netlify" width="40" height="40"/>&nbsp;
+</p>
+
+### 🛠 &nbsp;Code Editors:
+
+<p>
+<img src="https://i.imgur.com/7owpMFc.png" title="PyCharm" **alt="PyCharm" width="40" height="40"/>&nbsp;
+<img src="https://i.imgur.com/stFBISO.png" title="Visual Studio Code" **alt="Visual Studio Code" width="40" height="40"/>&nbsp;
+<img src="https://i.imgur.com/altso3Y.png" title="Atom Editor" **alt="Atom Editor" width="40" height="40"/>&nbsp;
+<img src="https://i.imgur.com/OK3bUTN.png" title="Notepad++" **alt="Notepad++" width="40" height="40"/>&nbsp;
 </p>
 
 ---
@@ -46,9 +48,8 @@ I am a starting frontend developer from Czech Republic.
 
 ---
 
-### ✍️ Blog Posts : 
-- [How to Create REST APIs with Java and Spring Boot](https://www.twilio.com/blog/create-rest-apis-java-spring-boot)
-- [How to Implement Memoization in React to Improve Performance](https://www.sitepoint.com/implement-memoization-in-react-to-improve-performance/)
-- [How to Create an Impressive GitHub Profile README](https://www.sitepoint.com/github-profile-readme/)<!-- BLOG-POST-LIST:START -->
+### ✍️ FAQ Posts : 
+- [How to start with HTML](https://www.twilio.com/blog/create-rest-apis-java-spring-boot)
+<!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
