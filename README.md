@@ -15,7 +15,7 @@ I am a starting frontend developer from Czech Republic.
 <img src="https://i.imgur.com/1oZ67tw.png" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
 <img src="https://i.imgur.com/900ftrZ.png" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
 <img src="https://i.imgur.com/jgkQbVf.png" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+<img src="https://i.imgur.com/GQIq8zh.png" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 <img src="https://i.imgur.com/Vxi8tbo.png" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 </p>
 
