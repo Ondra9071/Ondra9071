@@ -9,7 +9,7 @@ I am a starting frontend developer from Czech Republic.
 
 ---
 
-### 🛠 &nbsp;Languages:
+### 🌐 &nbsp;Languages:
 
 <p>
 <img src="https://i.imgur.com/1oZ67tw.png" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
@@ -30,7 +30,7 @@ I am a starting frontend developer from Czech Republic.
 <img src="https://i.imgur.com/Mbjbnv0.png" title="Replit" **alt="Replit" width="40" height="40"/>&nbsp;
 </p>
 
-### 🛠 &nbsp;Code Editors:
+### 👨‍💻 &nbsp;Code Editors:
 
 <p>
 <img src="https://i.imgur.com/7owpMFc.png" title="PyCharm" **alt="PyCharm" width="40" height="40"/>&nbsp;
