@@ -2,7 +2,7 @@
 
 I am a starting frontend developer from Czech Republic.
 
-- 🎓 Student
+- 🎓 IT Student
 - 🌲 16 Years Old
 - ⚡ In my free time I solve problems on Discord server called <a href="https://discord.com/invite/html">Learn HTML</a>.
 - 📫 You can contact me via <b>contact@ondra907.com</b>
@@ -49,7 +49,13 @@ I am a starting frontend developer from Czech Republic.
 ---
 
 ### ✍️ FAQ Posts : 
-- [How to start with HTML](https://www.twilio.com/blog/create-rest-apis-java-spring-boot)
+- [How to start with HTML](https://www.ondra907.com/faq/html)
+- [How to start with CSS](https://www.ondra907.com/faq/css)
+- [How to start with JavaScript](https://www.ondra907.com/faq/js)
+- [How to start with PHP](https://www.ondra907.com/faq/php)
+- [How to start with Python](https://www.ondra907.com/faq/python)
+- [Best website hosting services for free](https://www.ondra907.com/faq/webhosting)
+- [Eye catching script](https://www.ondra907.com/faq/eye-catching-script)
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
