@@ -1,4 +1,4 @@
-### :woman_technologist: &nbsp;About Me :
+# 👨‍💻 &nbsp;About Me :
 
 I am a starting frontend developer from Czech Republic.
 
