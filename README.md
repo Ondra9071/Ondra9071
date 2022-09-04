@@ -24,8 +24,10 @@ I am a starting frontend developer from Czech Republic.
 <p>
 <img src="https://i.imgur.com/uBWtn2K.png" title="Adobe Creative Cloud" **alt="Adobe Creative Cloud" width="40" height="40"/>&nbsp;
 <img src="https://i.imgur.com/4egkUJv.png" title="GitHub Desktop" **alt="GitHub Desktop" width="40" height="40"/>&nbsp;
+<img src="https://i.imgur.com/DEEVny6.png" title="GitKraken" **alt="GitKraken" width="40" height="40"/>&nbsp;
 <img src="https://i.imgur.com/ceRNR1S.png" title="Bootstrap Studio" **alt="Bootstrap Studio" width="40" height="40"/>&nbsp;
 <img src="https://i.imgur.com/7v3ctgg.png" title="Netlify" **alt="Netlify" width="40" height="40"/>&nbsp;
+<img src="https://i.imgur.com/Mbjbnv0.png" title="Replit" **alt="Replit" width="40" height="40"/>&nbsp;
 </p>
 
 ### 🛠 &nbsp;Code Editors:
