@@ -12,7 +12,7 @@ I am a starting frontend developer from Czech Republic.
 ### 🌐 &nbsp;Languages:
 
 <p>
-<img src="https://i.imgur.com/1oZ67tw.png" title="70%" alt="HTML" width="40" height="40"/>&nbsp;
+<img src="https://i.imgur.com/1oZ67tw.png" title="85%" alt="HTML" width="40" height="40"/>&nbsp;
 <img src="https://i.imgur.com/900ftrZ.png" title="50%" alt="CSS" width="40" height="40"/>&nbsp;
 <img src="https://i.imgur.com/jgkQbVf.png" title="10%" alt="Python" width="40" height="40"/>&nbsp;
 <img src="https://i.imgur.com/GQIq8zh.png" title="10%" alt="JavaScript" width="40" height="40"/>&nbsp;
