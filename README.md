@@ -34,6 +34,7 @@ I am a starting frontend developer from Czech Republic.
 
 <p>
 <img src="https://i.imgur.com/7owpMFc.png" title="PyCharm" **alt="PyCharm" width="40" height="40"/>&nbsp;
+<img src="https://i.imgur.com/JSn75BM.png" title="Visual Studio 2022 Enterprise" **alt="Visual Studio 2022 Enterprise" width="40" height="40"/>&nbsp;
 <img src="https://i.imgur.com/stFBISO.png" title="Visual Studio Code" **alt="Visual Studio Code" width="40" height="40"/>&nbsp;
 <img src="https://i.imgur.com/altso3Y.png" title="Atom Editor" **alt="Atom Editor" width="40" height="40"/>&nbsp;
 <img src="https://i.imgur.com/OK3bUTN.png" title="Notepad++" **alt="Notepad++" width="40" height="40"/>&nbsp;
