@@ -45,7 +45,7 @@ I am a starting frontend developer from Czech Republic.
 
 ### 🔥 &nbsp; My Stats :
 
-[![Score](https://github-readme-stats.vercel.app/api?username=Ondra9071&show_icons=true&theme=highcontrast)
+![Score](https://github-readme-stats.vercel.app/api?username=Ondra9071&show_icons=true&theme=highcontrast)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ondra9071&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
