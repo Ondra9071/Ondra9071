@@ -43,14 +43,6 @@ I am a starting frontend developer from Czech Republic.
 
 ---
 
-### 🔥 &nbsp; My Stats :
-
-[![Score](https://github-readme-stats.vercel.app/api?username=Ondra9071&show_icons=true&theme=highcontrast)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ondra9071&layout=compact&theme=vision-friendly-dark)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-
----
-
 ### ✍️ FAQ Posts : 
 - [How to start with HTML](https://www.ondra907.com/faq/html)
 - [How to start with CSS](https://www.ondra907.com/faq/css)
