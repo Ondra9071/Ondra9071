@@ -40,17 +40,3 @@ I am a starting frontend developer from Czech Republic.
 <img src="https://i.imgur.com/altso3Y.png" title="Atom Editor" **alt="Atom Editor" width="40" height="40"/>&nbsp;
 <img src="https://i.imgur.com/OK3bUTN.png" title="Notepad++" **alt="Notepad++" width="40" height="40"/>&nbsp;
 </p>
-
----
-
-### ✍️ FAQ Posts : 
-- [How to start with HTML](https://www.ondra907.com/faq/html)
-- [How to start with CSS](https://www.ondra907.com/faq/css)
-- [How to start with JavaScript](https://www.ondra907.com/faq/js)
-- [How to start with PHP](https://www.ondra907.com/faq/php)
-- [How to start with Python](https://www.ondra907.com/faq/python)
-- [Best website hosting services for free](https://www.ondra907.com/faq/webhosting)
-- [Eye catching script](https://www.ondra907.com/faq/eye-catching-script)
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
