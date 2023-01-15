@@ -40,5 +40,3 @@ I am a starting frontend developer from Czech Republic.
 <img src="https://i.imgur.com/altso3Y.png" title="Atom Editor" **alt="Atom Editor" width="40" height="40"/>&nbsp;
 <img src="https://i.imgur.com/OK3bUTN.png" title="Notepad++" **alt="Notepad++" width="40" height="40"/>&nbsp;
 </p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
