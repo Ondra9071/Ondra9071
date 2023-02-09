@@ -5,7 +5,7 @@ I am a starting frontend developer from Czech Republic.
 - 🎓 IT Student
 - 🌲 16 Years Old
 - 🌐 Czech, English, Russian
-- ⚡ In my free time I solve problems on Discord server called <a href="https://discord.com/invite/html">Learn HTML</a> (3.6K Members)
+- ⚡ In my free time I solve problems on Discord server called <b><a href="https://discord.com/invite/html">Learn HTML</a></b> (3.6K Members)
 - 📫 You can contact me via <b>contact@ondra907.com</b>
 
 ---
