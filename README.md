@@ -50,7 +50,7 @@
 ### OS
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/Ondra9071)
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/Ondra9071)
-
+<!--
 <details>
 <p align="center">
   <a href="https://github.com/Ondra9071">
@@ -67,7 +67,7 @@
   </a>
 </p>
 </details>
-
+-->
 <p align="center">
   <a href="https://github.com/Ondra9071">
     <img src="https://komarev.com/ghpvc/?username=Ondra9071&color=blue&style=flat)" />
