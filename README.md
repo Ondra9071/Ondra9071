@@ -35,6 +35,9 @@
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://hub.docker.com/u/Ondra9071)
 [![NodeJS](https://img.shields.io/badge/nodejs-black?style=for-the-badge&logo=javascript)](https://hub.docker.com/u/Ondra9071)
 
+### Wanna learn
+[![HTML5](https://img.shields.io/badge/Vue.js-black?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)](https://hub.docker.com/u/Ondra9071)
+
 ### OS
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/Ondra9071)
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/Ondra9071)
