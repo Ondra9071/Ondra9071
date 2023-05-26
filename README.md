@@ -6,7 +6,7 @@
         Ondra, 16 years old, Czech Republic <a src="https://github.com/Ondra9071"><img style="width:20px" src="https://i.imgur.com/wzH9Nsr.png"></a><br>
         Currently studying IT on High School<br>
         Open to collaborating on interesting and innovative projects<br>
-        Support on <a href="https://discord.gg/html">LearnHTML</a> (5K members)
+        Support on <a href="https://discord.gg/html">LearnHTML</a> (5K members)<br>
     </i><br>
     <a href="https://www.instagram.com/ondrasekq_/">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
