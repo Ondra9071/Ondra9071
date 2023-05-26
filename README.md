@@ -1,4 +1,4 @@
-<h1 align="center">Hey everyone! <img src="https://i.imgur.com/Eci2L65.png" width="28px" alt="👋"></h1>
+<h1 align="center">Hey everyone! <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDkwZDNmNDJkNzJkNzU0OGU2MTFkNjZjZWJkNjg4ODY2M2U1ZTk5ZSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/21L6gUkqzAsnvZQ86N/giphy.gif" width="28px" alt="👋"></h1>
 
 <p align="center">
     <b>Welcome to my page!</b><br><br>
