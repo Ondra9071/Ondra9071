@@ -3,9 +3,10 @@
 <p align="center">
     <b>Welcome to my page!</b><br><br>
     <i>
-        I'm Ondra.<br>
+        Ondra, 16 years old, Czech Republic <a src="https://github.com/Ondra9071"><img style="width:20px" src="https://i.imgur.com/wzH9Nsr.png"></a><br>
         Currently studying IT on High School<br>
-        Open to collaborating on interesting and innovative projects.<br>
+        Open to collaborating on interesting and innovative projects<br>
+        Support on <a href="https://discord.gg/html">LearnHTML</a> (5K members)
     </i><br>
     <a href="https://www.instagram.com/ondrasekq_/">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
@@ -22,6 +23,7 @@
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/Ondra9071)
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/Ondra9071)
 [![C#](https://img.shields.io/badge/csharp-black?style=for-the-badge&logo=csharp)](https://github.com/Ondra9071)
+[![Rust](https://img.shields.io/badge/rust-black?style=for-the-badge&logo=rust)](https://github.com/Ondra9071)
 
 ### Technologies & Frameworks
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://hub.docker.com/u/Ondra9071)
