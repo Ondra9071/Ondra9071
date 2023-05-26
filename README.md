@@ -8,7 +8,7 @@
         Open to collaborating on interesting and innovative projects<br>
         Support on <a href="https://discord.gg/html">LearnHTML</a> (5K members)<br>
     </i><br>
-     <a href="https://www.linkedin.com/in/ond%C5%99ej-pacovsk%C3%BD-017699278/">
+     <a target="_blank" href="https://www.linkedin.com/in/ond%C5%99ej-pacovsk%C3%BD-017699278/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Instagram">
     </a>
     <a href="https://discord.com/channels/@me/1108082522346242098">
