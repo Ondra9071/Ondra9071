@@ -33,8 +33,12 @@
 ### Technologies & Frameworks
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://hub.docker.com/u/Ondra9071)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://hub.docker.com/u/Ondra9071)
+[![Bootstrap](https://img.shields.io/badge/bootstrap-black?style=for-the-badge&logo=bootstrap)](https://hub.docker.com/u/Ondra9071)
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://hub.docker.com/u/Ondra9071)
 [![NodeJS](https://img.shields.io/badge/nodejs-black?style=for-the-badge&logo=javascript)](https://hub.docker.com/u/Ondra9071)
+[![Angular](https://img.shields.io/badge/Angular-black?style=for-the-badge&logo=angular)](https://hub.docker.com/u/Ondra9071)
+[![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://hub.docker.com/u/Ondra9071)
+[![WPF](https://img.shields.io/badge/WPF-black?style=for-the-badge&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAACTFBMVEVLo88kj8BcrtcAaKJUq9UAVJRZsdkbksdFeZObmpkAFzr%2F%2F%2F8eW5MnYpdRf6lZhKyRrcYAAAAllcYHerAoiLgwcp0mbJmFvdr%2F%2F%2F9MstwUm84BhrxjsNLi8PlluOAbgbRLn8gWfKxFosyS1O9otdwgl8t1t9ru%2B%2F9LmsYch7h4w%2BY8qNU2st2Bvt8Tib5gs9q%2F4fVDhLELkshRstwamMpdo8kVib1sxuyKvNo1apkMaqIFk8xCns4Xi8AVdawcbKAUZ5seiL1biqQsYZE2cZZvkJwTjsUZcacbX5odW5EcZ5uOe29zdHSZm5tXWFdqaWhfXl16enpsbW10dXVzcW9pZmNraWZ5d3RoZ2VnaGhpamptbm5naGdjY2NjY2NnZ2doaGhsbWxlZmViYmFnZ2dkZGRkZGRiYmFubm1sbWxufoxqeIRzf4lqe4trcHVwgpJsf49WaXpleIhrb3FjbXZZcIRcd5BndYEuZ5s8cqEtZ5siX5ZIeqcxapw1bZ4fXZUfXZRAdaQxap0fXZQtZ5pMfakrZZk2bZ4hXpUoY5gyapw9cqEcWpIrZpkfXJM%2Bc6EeXJMiXpVBdKJxlrc0bJ09caEeXJMgXZRTgqsWVpAtZ5o6cJ9fiq8YWJEuZ5o%2BcqFulLY4bp8aWZFYhawaWZExapxMfKcjX5VzmLhKeqYjX5VfirBbhq1Qf6mOq8RLe6dskrVkjLFPfqiUr8dji7FPfqiNqsQQdqkIa50MhLsPb6IIgrgZlcgZi8AKaJ8Vi78Ef7QOdKkOaZ4VVo%2BzyO8KAAAAt3RSTlMAAAAAAAAAAAAAAAAAAAAAAAAlst7c2HsDCJHy7FQQsLXc5ys38LkRad0momly9EsWyKVuqbagBlP59lYr4PH1ziVylYgmP21saSgIPRioU5hbV1xdWlFNVnColqKbjJhmbntwlp91jHmDUElIV1NfSnRkS15hU2CilaDBdcW%2Bz9Rxlda5dLDU7OnYntvH3ZbN1Y8yrb3w3mTsrXRI6JxpHJHSUs2DW8shSM8oGCAIIw8TIgMQIwWhxmR0AAAAdklEQVQI12NkYBRkRAJMMowzMhmnZwGZU3IZGZlVJ%2BUzMk5gLGCcUMh4ldGAsbfksl4PYwljTynjeUYLoKozpoytNUD6OCOjE5A6ymgNM8qPEQXEoHKzULkVqNw2VO4U%2FUvI3IVQOmUuI2MSI%2BMamA1LGRmjGAHSZRjFXlMLWwAAAABJRU5ErkJggg%3D%3D)](https://hub.docker.com/u/Ondra9071)
 
 ### Wanna learn
 [![VueJS](https://img.shields.io/badge/Vue.js-black?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)](https://hub.docker.com/u/Ondra9071)
