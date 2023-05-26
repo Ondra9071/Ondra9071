@@ -38,6 +38,8 @@
 ### Wanna learn
 [![VueJS](https://img.shields.io/badge/Vue.js-black?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)](https://hub.docker.com/u/Ondra9071)
 [![C++](https://img.shields.io/badge/C++-black?style=for-the-badge&logo=C%2B%2B)](https://hub.docker.com/u/Ondra9071)
+[![Kotlin](https://img.shields.io/badge/kotlin-black?style=for-the-badge&logo=kotlin)](https://hub.docker.com/u/Ondra9071)
+[![Kotlin](https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=mysql)](https://hub.docker.com/u/Ondra9071)
 
 ### OS
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/Ondra9071)
