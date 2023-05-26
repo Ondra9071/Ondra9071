@@ -1,42 +1,67 @@
-# 👨‍💻 &nbsp;About Me :
+<h1 align="center">Hey everyone! <img src="https://i.imgur.com/Eci2L65.png" width="28px" alt="👋"></h1>
 
-I am a starting frontend developer from Czech Republic.
-
-- 🎓 IT Student
-- 🌲 16 Years Old
-- 🌐 Czech, English, Russian
-- ⚡ In my free time I solve problems on Discord server called <b><a href="https://discord.com/invite/html">Learn HTML</a></b> (4K+ Members)
-- 📫 You can contact me via <b>contact@ondra907.com</b>
-
----
-
-### 🌐 &nbsp;Languages:
-<p>
-<img src="https://i.imgur.com/sFK7Mhx.png" title="C#" alt="C#" width="40" height="40"/>&nbsp;
-<img src="https://i.imgur.com/jgkQbVf.png" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://i.imgur.com/bnQpOHt.png" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-<img src="https://i.imgur.com/1oZ67tw.png" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
-<img src="https://i.imgur.com/900ftrZ.png" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
-<img src="https://i.imgur.com/GQIq8zh.png" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+<p align="center">
+    <b>Welcome to my page!</b><br><br>
+    <i>
+        I'm Ondra.<br>
+        Currently studying IT on High School<br>
+        Open to collaborating on interesting and innovative projects.<br>
+    </i><br>
+    <a href="https://www.instagram.com/ondrasekq_/">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+    </a>
+    <a href="https://discord.com/channels/@me/1108082522346242098">
+        <img src="https://img.shields.io/badge/Discord-6A5ACD?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+    </a>
+    <a href="https://www.buymeacoffee.com/ondra907">
+        <img src="https://img.shields.io/badge/-buy_me_a%C2%A0coffee-FFBF00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buymeacoffee">
+    </a>
 </p>
 
-### 🛠 &nbsp;Tools:
+### Languages
+[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/Ondra9071)
+[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/Ondra9071)
+[![C#](https://img.shields.io/badge/csharp-black?style=for-the-badge&logo=csharp)](https://github.com/Ondra9071)
 
-<p>
-<img src="https://i.imgur.com/uBWtn2K.png" title="Adobe Creative Cloud" **alt="Adobe Creative Cloud" width="40" height="40"/>&nbsp;
-<img src="https://i.imgur.com/4egkUJv.png" title="GitHub Desktop" **alt="GitHub Desktop" width="40" height="40"/>&nbsp;
-<img src="https://i.imgur.com/DEEVny6.png" title="GitKraken" **alt="GitKraken" width="40" height="40"/>&nbsp;
-<img src="https://i.imgur.com/ceRNR1S.png" title="Bootstrap Studio" **alt="Bootstrap Studio" width="40" height="40"/>&nbsp;
-<img src="https://i.imgur.com/7v3ctgg.png" title="Netlify" **alt="Netlify" width="40" height="40"/>&nbsp;
-<img src="https://i.imgur.com/Mbjbnv0.png" title="Replit" **alt="Replit" width="40" height="40"/>&nbsp;
+### Technologies & Frameworks
+[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://hub.docker.com/u/Ondra9071)
+[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://hub.docker.com/u/Ondra9071)
+[![NodeJS](https://img.shields.io/badge/nodejs-black?style=for-the-badge&logo=javascript)](https://hub.docker.com/u/Ondra9071)
+
+### OS
+[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/Ondra9071)
+[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/Ondra9071)
+
+<details>
+<p align="center">
+  <a href="https://github.com/Ondra9071">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ondra9071&theme=transparent" />
+  </a>
+  <a href="https://github.com/Ondra9071">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ondra9071&hide_border=true&card_width=338&theme=transparent" />
+  </a>
+  <a href="https://github.com/Ondra9071">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ondra9071&theme=transparent" />
+  </a>
+  <a href="https://github.com/Ondra9071">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ondra9071&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
+  </a>
 </p>
+</details>
 
-### 👨‍💻 &nbsp;Code Editors:
-
-<p>
-<img src="https://i.imgur.com/JSn75BM.png" title="Visual Studio 2022 Enterprise" **alt="Visual Studio 2022 Enterprise" width="40" height="40"/>&nbsp;
-<img src="https://i.imgur.com/stFBISO.png" title="Visual Studio Code" **alt="Visual Studio Code" width="40" height="40"/>&nbsp;
-  <img src="https://i.imgur.com/7owpMFc.png" title="PyCharm" **alt="PyCharm" width="40" height="40"/>&nbsp;
-<img src="https://i.imgur.com/altso3Y.png" title="Atom Editor" **alt="Atom Editor" width="40" height="40"/>&nbsp;
-<img src="https://i.imgur.com/OK3bUTN.png" title="Notepad++" **alt="Notepad++" width="40" height="40"/>&nbsp;
+<p align="center">
+  <a href="https://github.com/Ondra9071">
+    <img src="https://komarev.com/ghpvc/?username=Ondra9071&color=blue&style=flat)" />
+  </a>
 </p>
+<!--
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
