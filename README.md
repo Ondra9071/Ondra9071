@@ -36,7 +36,8 @@
 [![NodeJS](https://img.shields.io/badge/nodejs-black?style=for-the-badge&logo=javascript)](https://hub.docker.com/u/Ondra9071)
 
 ### Wanna learn
-[![HTML5](https://img.shields.io/badge/Vue.js-black?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)](https://hub.docker.com/u/Ondra9071)
+[![VueJS](https://img.shields.io/badge/Vue.js-black?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)](https://hub.docker.com/u/Ondra9071)
+[![C++](https://img.shields.io/badge/C++-black?style=for-the-badge&logo=C%2B%2B)](https://hub.docker.com/u/Ondra9071)
 
 ### OS
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/Ondra9071)
