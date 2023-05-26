@@ -1,7 +1,6 @@
-<h1 align="center">Hey everyone! <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDkwZDNmNDJkNzJkNzU0OGU2MTFkNjZjZWJkNjg4ODY2M2U1ZTk5ZSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/21L6gUkqzAsnvZQ86N/giphy.gif" width="28px" alt="👋"></h1>
+<h1 align="center">Welcome! <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDkwZDNmNDJkNzJkNzU0OGU2MTFkNjZjZWJkNjg4ODY2M2U1ZTk5ZSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/21L6gUkqzAsnvZQ86N/giphy.gif" width="28px" alt="👋"></h1>
 
 <p align="center">
-    <b>Welcome to my page!</b><br><br>
     <i>
         Ondra, 16 years old, Czech Republic <a src="https://github.com/Ondra9071"><img style="width:20px" src="https://i.imgur.com/wzH9Nsr.png"></a><br>
         Currently studying IT at High School<br>
