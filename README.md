@@ -8,11 +8,14 @@
         Open to collaborating on interesting and innovative projects<br>
         Support on <a href="https://discord.gg/html">LearnHTML</a> (5K members)<br>
     </i><br>
-    <a href="https://www.instagram.com/ondrasekq_/">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+     <a href="https://www.linkedin.com/in/ond%C5%99ej-pacovsk%C3%BD-017699278/">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Instagram">
     </a>
     <a href="https://discord.com/channels/@me/1108082522346242098">
         <img src="https://img.shields.io/badge/Discord-6A5ACD?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+    </a>
+    <a href="https://www.instagram.com/ondrasekq_/">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
     </a>
     <a href="https://www.buymeacoffee.com/ondra907">
         <img src="https://img.shields.io/badge/-buy_me_a%C2%A0coffee-FFBF00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buymeacoffee">
