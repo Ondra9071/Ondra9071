@@ -28,6 +28,7 @@
 ### Technologies & Frameworks
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://hub.docker.com/u/Ondra9071)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://hub.docker.com/u/Ondra9071)
+[![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://hub.docker.com/u/Ondra9071)
 [![NodeJS](https://img.shields.io/badge/nodejs-black?style=for-the-badge&logo=javascript)](https://hub.docker.com/u/Ondra9071)
 
 ### OS
