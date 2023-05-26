@@ -49,7 +49,7 @@
 [![VueJS](https://img.shields.io/badge/Vue.js-black?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)](https://github.com/Ondra9071)
 [![Kotlin](https://img.shields.io/badge/kotlin-black?style=for-the-badge&logo=kotlin)](https://github.com/Ondra9071)
 [![Swift](https://img.shields.io/badge/swift-black?style=for-the-badge&logo=swift)](https://github.com/Ondra9071)
-[![C++](https://img.shields.io/badge/C++-black?style=for-the-badge&logo=C%2B%2B)](https://github.com/Ondra9071)
+[![Typescript](https://img.shields.io/badge/Typescript-black?style=for-the-badge&logo=typescript)](https://github.com/Ondra9071)
 
 ### OS
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/Ondra9071)
