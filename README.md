@@ -35,7 +35,6 @@
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/Ondra9071)
 [![Bootstrap](https://img.shields.io/badge/bootstrap-black?style=for-the-badge&logo=bootstrap)](https://github.com/Ondra9071)
 [![Sass](https://img.shields.io/badge/sass-black?style=for-the-badge&logo=sass)](https://github.com/Ondra9071)
-[![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/Ondra9071)
 [![NodeJS](https://img.shields.io/badge/nodejs-black?style=for-the-badge&logo=javascript)](https://github.com/Ondra9071)
 [![jQuery](https://img.shields.io/badge/jquery-black?style=for-the-badge&logo=jquery)](https://github.com/Ondra9071)
 [![Angular](https://img.shields.io/badge/Angular-black?style=for-the-badge&logo=angular)](https://github.com/Ondra9071)
@@ -47,6 +46,7 @@
 ### I'd like to learn
 [![Xamarin](https://img.shields.io/badge/Xamarin-black?style=for-the-badge&logo=xamarin)](https://github.com/Ondra9071)
 [![Typescript](https://img.shields.io/badge/Typescript-black?style=for-the-badge&logo=typescript)](https://github.com/Ondra9071)
+[![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/Ondra9071)
 [![VueJS](https://img.shields.io/badge/Vue.js-black?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)](https://github.com/Ondra9071)
 [![Svelte](https://img.shields.io/badge/svelte-black?style=for-the-badge&logo=svelte)](https://github.com/Ondra9071)
 [![Kotlin](https://img.shields.io/badge/kotlin-black?style=for-the-badge&logo=kotlin)](https://github.com/Ondra9071)
