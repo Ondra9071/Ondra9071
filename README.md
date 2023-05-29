@@ -11,7 +11,7 @@
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Instagram">
     </a>
     <a href="https://www.credly.com/users/ondrej-pacovsky">
-        <img src="https://img.shields.io/badge/Credly-FD7F20?style=for-the-badge&logo=credly&logoColor=white" alt="Credly">
+        <img src="https://img.shields.io/badge/Credly-F86F15?style=for-the-badge&logo=credly&logoColor=white" alt="Credly">
     </a>
     <a href="https://www.instagram.com/ondrasekq_/">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
