@@ -13,8 +13,8 @@
     <a href="https://www.credly.com/users/ondrej-pacovsky">
         <img src="https://img.shields.io/badge/Credly-F86F15?style=for-the-badge&logo=credly&logoColor=white" alt="Credly">
     </a>
-    <a href="https://www.instagram.com/ondrasekq_/">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+    <a href="https://leetcode.com/Ondra9071/">
+        <img src="https://img.shields.io/badge/Leetcode-1a1a1a?style=for-the-badge&logo=leetcode&logoColor=orange" alt="Instagram">
     </a>
     <a href="https://www.buymeacoffee.com/ondra907">
         <img src="https://img.shields.io/badge/-buy_me_a%C2%A0coffee-FFBF00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buymeacoffee">
