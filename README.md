@@ -10,9 +10,6 @@
      <a href="https://www.linkedin.com/in/ond%C5%99ej-pacovsk%C3%BD-017699278/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Instagram">
     </a>
-    <a href="https://www.sololearn.com/profile/27250256">
-        <img src="https://img.shields.io/badge/Sololearn-DA627D?style=for-the-badge&logo=sololearn&logoColor=white" alt="Sololearn">
-    </a>
     <a href="https://leetcode.com/Ondra9071/">
         <img src="https://img.shields.io/badge/Leetcode-1a1a1a?style=for-the-badge&logo=leetcode&logoColor=orange" alt="Instagram">
     </a>
