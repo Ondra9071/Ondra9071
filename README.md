@@ -20,12 +20,12 @@
 
 ### Languages
 [![C#](https://img.shields.io/badge/c%23-black?style=for-the-badge&logo=csharp)](https://github.com/Ondra9071)
-[![Rust](https://img.shields.io/badge/rust-black?style=for-the-badge&logo=rust)](https://github.com/Ondra9071)
-[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/Ondra9071)
-[![Sourcepawn](https://img.shields.io/badge/SOURCEPAWN-black?style=for-the-badge&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAABQVBMVEUAAAADAwMEBAUCAwP%2F0iUKEhhVNwzkkRv1nB34nR2oaxQSFRcyWX0xU3IGCAoFBgcZKzw2YIcLDxQBAQEAAAAAAAAAAAAAAAAAAAAAAAAAAABSNQuTXxKeZhObYxI%2BLhUqTW0fN00AAAAAAAAoRmIoR2MFBwoAAAGjaRQ5LxxBdKEQGyUhOlE%2BbpoGCQ0AAACUXxKjaBM8MR5Cd6c0XIA9a5U9bJYGCg1DKwk9cJ8jPlZIgLI9bJYqSWU%2BbZgGCg4AAAB2TA%2B5dxa5dxa0cxVDNBszXYMVJDEkP1gZKzsjPVQyWXwGCQwgFQYrHAcrHAceFAUCBAcMFR0GCg0AAAAAAAALEhgMFBsDBAW8eRaVYBKXYRKSXRFGfrFLhLjDfResbxWucBVGfK1Gfa13TQ9%2FURB%2BURDGfxZ5VyK5dxb%2F%2F%2F%2BvAt4gAAAAWXRSTlMAAAAAAAAAAAAAAAAAAAAAAAAAAAcJBggCBAFZub6%2Bqrt5BRCYpRga0%2BnzWHvkJRXF%2B9375fDhJZj%2B6v738eIlCrn7%2FPfc%2BaG6q73eI0BoZ15BYTglJztYDRIqJ6sAAABqSURBVAjXfc49DgEBAETh%2BYStJatAo6QQG0Lv%2FsnGX%2BUGmj2BBI3sovCqeclMMvKFH9WlRyL9oQS3wehemCJa5taotzWbA5WKI9XZ6sJktoTTu7y3uHZT4x3PXqspfJKUSZqySVI2%2Fn5%2BAbasEKrA7QdEAAAAAElFTkSuQmCC)](https://github.com/Ondra9071)
+[![Rust](https://img.shields.io/badge/Dart-black?style=for-the-badge&logo=dart)](https://github.com/Ondra9071)
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/Ondra9071)
 [![Lua](https://img.shields.io/badge/lua-black?style=for-the-badge&logo=lua)](https://github.com/Ondra9071)
 [![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=mysql)](https://github.com/Ondra9071)
+[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/Ondra9071)
+[![Sourcepawn](https://img.shields.io/badge/SOURCEPAWN-black?style=for-the-badge&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAABQVBMVEUAAAADAwMEBAUCAwP%2F0iUKEhhVNwzkkRv1nB34nR2oaxQSFRcyWX0xU3IGCAoFBgcZKzw2YIcLDxQBAQEAAAAAAAAAAAAAAAAAAAAAAAAAAABSNQuTXxKeZhObYxI%2BLhUqTW0fN00AAAAAAAAoRmIoR2MFBwoAAAGjaRQ5LxxBdKEQGyUhOlE%2BbpoGCQ0AAACUXxKjaBM8MR5Cd6c0XIA9a5U9bJYGCg1DKwk9cJ8jPlZIgLI9bJYqSWU%2BbZgGCg4AAAB2TA%2B5dxa5dxa0cxVDNBszXYMVJDEkP1gZKzsjPVQyWXwGCQwgFQYrHAcrHAceFAUCBAcMFR0GCg0AAAAAAAALEhgMFBsDBAW8eRaVYBKXYRKSXRFGfrFLhLjDfResbxWucBVGfK1Gfa13TQ9%2FURB%2BURDGfxZ5VyK5dxb%2F%2F%2F%2BvAt4gAAAAWXRSTlMAAAAAAAAAAAAAAAAAAAAAAAAAAAcJBggCBAFZub6%2Bqrt5BRCYpRga0%2BnzWHvkJRXF%2B9375fDhJZj%2B6v738eIlCrn7%2FPfc%2BaG6q73eI0BoZ15BYTglJztYDRIqJ6sAAABqSURBVAjXfc49DgEBAETh%2BYStJatAo6QQG0Lv%2FsnGX%2BUGmj2BBI3sovCqeclMMvKFH9WlRyL9oQS3wehemCJa5taotzWbA5WKI9XZ6sJktoTTu7y3uHZT4x3PXqspfJKUSZqySVI2%2Fn5%2BAbasEKrA7QdEAAAAAElFTkSuQmCC)](https://github.com/Ondra9071)
 
 ### Technologies & Frameworks
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/Ondra9071)
