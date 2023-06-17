@@ -32,6 +32,7 @@
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/Ondra9071)
 [![Bootstrap](https://img.shields.io/badge/bootstrap-black?style=for-the-badge&logo=bootstrap)](https://github.com/Ondra9071)
 [![Sass](https://img.shields.io/badge/sass-black?style=for-the-badge&logo=sass)](https://github.com/Ondra9071)
+[![Flutter](https://img.shields.io/badge/Flutter-black?style=for-the-badge&logo=flutter)](https://github.com/Ondra9071)
 [![NodeJS](https://img.shields.io/badge/nodejs-black?style=for-the-badge&logo=javascript)](https://github.com/Ondra9071)
 [![jQuery](https://img.shields.io/badge/jquery-black?style=for-the-badge&logo=jquery)](https://github.com/Ondra9071)
 [![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/Ondra9071)
@@ -39,7 +40,6 @@
 [![Windows Forms](https://img.shields.io/badge/WINFORMS-black?style=for-the-badge&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAJCAMAAAA1k%2B1bAAABfVBMVEUQtukQreU70vYAreUAAAYcv%2B4IkdgANaBLvupNyu8ApOcSndiL4P8KouIqo9MA%2F%2F8Anu4AjtsIoOoLpO8Doe4bt%2B4KjtMRodgGfLgimNBk3vsOrekLmt0SltoV0PkGktQDhMsHl9IBdbYJhsQZwe4b%2F%2F8Gu%2B8CpeQGktklod4QpN4BfsUElNINvesCm9gCsekOzvoXwfAXm9pYxu1RzvMSicoGq%2Bcm9%2F8Es%2BkAmtoNt%2B43s%2BQTpt5U0%2FM2n9MBjNIKsu4GrugGk9gIfMECe78MpNsMer8CZbAGlNoTw%2FoLn%2BAEldkGb7gJdL8GaK8IdLhbxeIOic8MfcYdq%2B8Tp%2FAYqPAXpewxkdM6d70vcbATqPAQp%2FATp%2B8Up%2B8Sp%2B8Ope8XqfALpe8Npu8WqfAQpu8Tp%2B8WqfAXqfASp%2B8Sp%2B8Sp%2B8Up%2B8XqPAVp%2B8aqvAKpO8LpO8Tp%2B8YqfAeq%2FAcqvAWqfAAhMkBnN4AfcUAhMoEi88Jb7UAicwAeL%2F%2F%2F%2F8Mnv2tAAAAdnRSTlMAAAAAAAAAAAAAAAAAAAAAAAAAAAAGMj8%2BOQ4jWDgJhOnk7u%2BOAiLI%2FHJr%2FeFo6Oopbf5YJtiLCsP%2BYprNG2b2RIK5zvNRiNiICCGpzM3FYgMgIBEOCBIODgpgiXdtXW9kU1FXZFhZLl6ZeYB1gFCFd2B2e5VU9QnPgAAAAF5JREFUCNdVyzEKggAAQFHfIF7AIWevIDSIRYji6toJPKKRSIQ1hGtjsx2joUF82x%2B%2BQAy%2BdizCxOojSqG5UF%2B9ZcqR043j3exQTF773ANPakzFfx1pMVTQw9lGt6kfs9UTMGvU4nMAAAAASUVORK5CYII%3D)](https://github.com/Ondra9071)
 
 ### I'd like to learn
-[![Flutter](https://img.shields.io/badge/Flutter-black?style=for-the-badge&logo=flutter)](https://github.com/Ondra9071)
 [![Electron](https://img.shields.io/badge/Electron-black?style=for-the-badge&logo=electron)](https://github.com/Ondra9071)
 [![Xamarin](https://img.shields.io/badge/Xamarin-black?style=for-the-badge&logo=xamarin)](https://github.com/Ondra9071)
 [![Typescript](https://img.shields.io/badge/Typescript-black?style=for-the-badge&logo=typescript)](https://github.com/Ondra9071)
