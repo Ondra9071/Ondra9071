@@ -2,7 +2,7 @@
 
 <p align="center">
     <i>
-        Ondra, 16 years old, Czech Republic <a src="https://github.com/Ondra9071"><img style="width:20px" src="https://i.imgur.com/wzH9Nsr.png"></a><br>
+        Ondra, 17 years old, Czech Republic <a src="https://github.com/Ondra9071"><img style="width:20px" src="https://i.imgur.com/wzH9Nsr.png"></a><br>
         Currently studying IT at High School<br>
         Open to collaborating on interesting and innovative projects<br>
         Support on <a href="https://discord.gg/html">LearnHTML</a> (5K members)<br>
