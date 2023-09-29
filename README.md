@@ -10,9 +10,9 @@
      <a href="https://www.linkedin.com/in/ond%C5%99ej-pacovsk%C3%BD-017699278/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Instagram">
     </a>
-    <a href="https://leetcode.com/Ondra9071/">
+<!--    <a href="https://leetcode.com/Ondra9071/">
         <img src="https://img.shields.io/badge/Leetcode-1a1a1a?style=for-the-badge&logo=leetcode&logoColor=orange" alt="Instagram">
-    </a>
+    </a> -->
     <a href="https://www.buymeacoffee.com/ondra907">
         <img src="https://img.shields.io/badge/-buy_me_a%C2%A0coffee-FFBF00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buymeacoffee">
     </a>
