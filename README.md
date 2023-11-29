@@ -46,8 +46,8 @@
 [![Ruby](https://img.shields.io/badge/ruby-black?style=for-the-badge&logo=ruby)](https://github.com/Ondra9071)
 
 ### OS
-[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/Ondra9071)
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/Ondra9071)
+[![Ubuntu Server](https://img.shields.io/badge/ubuntu%20server-black?style=for-the-badge&logo=ubuntu)](https://github.com/Ondra9071)
 <!--
 <details>
 <p align="center">
