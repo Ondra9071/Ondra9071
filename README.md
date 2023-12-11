@@ -66,7 +66,7 @@
 </p>
 </details>
 -->
-[![Discord Presence](https://lanyard.cnrad.dev/api/570547780804804611)](https://discord.com/users/570547780804804611)
+<!--[![Discord Presence](https://lanyard.cnrad.dev/api/570547780804804611)](https://discord.com/users/570547780804804611)
  <br> <a href="https://github.com/Ondra9071">
     <img src="https://komarev.com/ghpvc/?username=Ondra9071&color=blue&style=flat)" />
-  </a>
+  </a>-->
