@@ -47,7 +47,7 @@
 
 ### OS
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/Ondra9071)
-[![Ubuntu Server](https://img.shields.io/badge/ubuntu%20server-black?style=for-the-badge&logo=ubuntu)](https://github.com/Ondra9071)
+[![Zorin OS](https://img.shields.io/badge/zorin%20os-black?style=for-the-badge&logo=zorin)
 <!--
 <details>
 <p align="center">
