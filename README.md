@@ -20,7 +20,7 @@
 
 ### Currenctly working on
 
-[![C#](https://img.shields.io/badge/ss.ondrejpacovsky.cz-black?style=for-the-badge)]([https://github.com/Ondra9071](https://ss.ondrejpacovsky.cz/))
+[![C#](https://img.shields.io/badge/ss.ondrejpacovsky.cz-black?style=for-the-badge)](https://ss.ondrejpacovsky.cz/)
 
 ### Languages
 [![C#](https://img.shields.io/badge/c%23-black?style=for-the-badge&logo=csharp)](https://github.com/Ondra9071)
