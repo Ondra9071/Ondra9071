@@ -18,9 +18,9 @@
     </a>
 </p>
 
-### Currenctly working on
+<!--### Currenctly working on
 
-[![C#](https://img.shields.io/badge/eternalrust.eu-black?style=for-the-badge)](https://eternalrust.eu/)
+[![C#](https://img.shields.io/badge/eternalrust.eu-black?style=for-the-badge)](https://eternalrust.eu/)-->
 
 ### Languages
 [![C#](https://img.shields.io/badge/c%23-black?style=for-the-badge&logo=csharp)](https://github.com/Ondra9071)
