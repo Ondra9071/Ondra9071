@@ -22,6 +22,8 @@
 
 [![C#](https://img.shields.io/badge/eternalrust.eu-black?style=for-the-badge)](https://eternalrust.eu/)-->
 
+<!--
+
 ### Languages
 [![C#](https://img.shields.io/badge/c%23-black?style=for-the-badge&logo=csharp)](https://github.com/Ondra9071)
 [![Rust](https://img.shields.io/badge/Dart-black?style=for-the-badge&logo=dart)](https://github.com/Ondra9071)
@@ -49,9 +51,13 @@
 [![Swift](https://img.shields.io/badge/swift-black?style=for-the-badge&logo=swift)](https://github.com/Ondra9071)
 [![Ruby](https://img.shields.io/badge/ruby-black?style=for-the-badge&logo=ruby)](https://github.com/Ondra9071) -->
 
+<!--
+
 ### OS
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/Ondra9071)
-[![Zorin OS](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/Ondra9071)
+[![Zorin OS](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/Ondra9071)                            -->
+
+
 <!--
 <details>
 <p align="center">
