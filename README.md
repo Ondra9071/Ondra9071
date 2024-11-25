@@ -6,6 +6,7 @@
         Currently studying IT at High School<br>
         Open to collaborating on interesting and innovative projects<br>
         Support on <a href="https://discord.gg/html">LearnHTML</a> (9K+ members)<br>
+        Currently working on <a href="https://highseas.hackclub.com/">HighSeas</a> projects! 🦜🏴‍☠️ <br>
     </i><br>
      <a href="https://www.linkedin.com/in/ond%C5%99ej-pacovsk%C3%BD-017699278/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Instagram">
