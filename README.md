@@ -5,8 +5,7 @@
         Ondra, 18 years old, Czech Republic <a src="https://github.com/Ondra9071"><img style="width:20px" src="https://i.imgur.com/wzH9Nsr.png"></a><br>
         Studying IT at High School<br>
         Open to collaborating on interesting and innovative projects<br>
-        Support on <a href="https://discord.gg/html">LearnHTML</a> (9K+ members)<br>
-        Currently working on <a href="https://highseas.hackclub.com/">HighSeas</a> projects! 🦜🏴‍☠️ <br>
+        Support on <a href="https://discord.gg/html">LearnHTML</a> (10K+ members)<br>
     </i><br>
      <a href="https://www.linkedin.com/in/ond%C5%99ej-pacovsk%C3%BD-017699278/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Instagram">
